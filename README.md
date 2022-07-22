@@ -5,8 +5,6 @@
 
 Android Engineer !
 
-Crytpo holder !
-
 
 **Languages and Tools:**    
 
