@@ -2,7 +2,6 @@
 
 **About me**
 
-My name is zguop.
 
 Android Engineer !
 
